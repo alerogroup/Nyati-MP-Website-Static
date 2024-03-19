@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.161e671f.css",
+    "main.js": "/static/js/main.ca396f6c.js",
+    "static/media/Hero.svg": "/static/media/Hero.8701037a1834b9b4e093522cc7dff4e8.svg",
+    "static/media/vision.svg": "/static/media/vision.f8f0cdf6dbe9039e18f8b71f6bf715e4.svg",
+    "static/media/Press.svg": "/static/media/Press.d7c49c55fbe38393b40d042f3d1cc81f.svg",
+    "static/media/slide1.svg": "/static/media/slide1.332a619456234ae5618dc394e9572ee8.svg",
+    "static/media/Dr_cindy.svg": "/static/media/Dr_cindy.31bc484a760be85f790ce46b3e5f8196.svg",
+    "static/media/TK.png": "/static/media/TK.7013e595fd52d6897cb6.png",
+    "static/media/Segoe-UI-Semibold.ttf": "/static/media/Segoe-UI-Semibold.a23f926d5b61c10b9cd6.ttf",
+    "static/media/Inter-ExtraBold.ttf": "/static/media/Inter-ExtraBold.4164cfba15dbca5f37aa.ttf",
+    "static/media/Inter-Black.ttf": "/static/media/Inter-Black.83d81b169bedf85385f2.ttf",
+    "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
+    "static/media/Inter-SemiBold.ttf": "/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
+    "static/media/Inter-Medium.ttf": "/static/media/Inter-Medium.3f7acfe50aad7ad68548.ttf",
+    "static/media/Inter-ExtraLight.ttf": "/static/media/Inter-ExtraLight.fbcf1d9ad9d7bac9f6de.ttf",
+    "static/media/Inter-Thin.ttf": "/static/media/Inter-Thin.97a5cc3ca8d3b35a4239.ttf",
+    "static/media/Inter-Light.ttf": "/static/media/Inter-Light.02850f28027788580733.ttf",
+    "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/bgwatchtime.png": "/static/media/bgwatchtime.74e3192d88397964528d.png",
+    "static/media/image 6.svg": "/static/media/image 6.e2795f018fea9e7a289127de8bbbd2f0.svg",
+    "static/media/Logo.svg": "/static/media/Logo.0825c08deb975fd59e3c701d2000e549.svg",
+    "static/media/netflixtrail.jpg": "/static/media/netflixtrail.a429c807ed1553f22671.jpg",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/FairPlay.png": "/static/media/FairPlay.ac0312097d3728c362d9.png",
+    "static/media/Fate.png": "/static/media/Fate.5984e0f25a080fdd1f1a.png",
+    "static/media/WindowsOfHope.png": "/static/media/WindowsOfHope.3a16830b94b6022a1df5.png",
+    "static/media/current.png": "/static/media/current.f6be038b3d6751921b67.png",
+    "static/media/Segoe-UI-Bold-Italic.ttf": "/static/media/Segoe-UI-Bold-Italic.1dc286eeecb0da1dd712.ttf",
+    "static/media/Segoe-UI-Italic.ttf": "/static/media/Segoe-UI-Italic.cba58501ca412000495c.ttf",
+    "static/media/Segoe-UI-Bold.ttf": "/static/media/Segoe-UI-Bold.b00928e669b804136004.ttf",
+    "static/media/Segoe-UI.ttf": "/static/media/Segoe-UI.45472284dc36b2486ce2.ttf",
+    "index.html": "/index.html",
+    "static/media/add-square-broken.svg": "/static/media/add-square-broken.0f89bc488f5be2475d4e4097610b76cc.svg",
+    "main.161e671f.css.map": "/static/css/main.161e671f.css.map",
+    "main.ca396f6c.js.map": "/static/js/main.ca396f6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.161e671f.css",
+    "static/js/main.ca396f6c.js"
+  ]
+}
